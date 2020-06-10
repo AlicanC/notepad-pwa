@@ -1,4 +1,5 @@
-var scopes = require('./commitlint.scopes');
+/* eslint-disable @typescript-eslint/no-var-requires */
+const scopes = require('./commitlint.scopes');
 
 module.exports = {
   extends: ['@commitlint/config-conventional'],

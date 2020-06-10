@@ -6,6 +6,5 @@ module.exports = [
   'deps',
   'dev-deps',
   'app',
-  'service-worker',
-  'assets',
+  'release',
 ];
